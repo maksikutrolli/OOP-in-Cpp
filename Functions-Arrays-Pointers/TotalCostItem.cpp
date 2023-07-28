@@ -2,7 +2,7 @@
  *      Author: MaksiKutrolli
  */
 
-
+//In this example we calculate the total cost of an item, including the tax and any applicable discount.
 //This example showcases the benefits of employing functions to encapsulate specific calculations, resulting in
 //a more readable and organized main program. Functions enable the breakdown of complex tasks into smaller,
 //more manageable pieces, thereby enhancing the overall structure and efficiency of the program. By leveraging functions,
