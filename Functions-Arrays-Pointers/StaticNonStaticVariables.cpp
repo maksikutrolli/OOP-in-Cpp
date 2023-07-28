@@ -44,7 +44,7 @@ void staticFunction() {
 // This is the main function where the program execution starts.
 int main() {
 
-	// Call the non-static function and show the output.
+    // Call the non-static function and show the output.
     nonStaticFunction(); // Output: Non-static variable count: 1
     nonStaticFunction(); // Output: Non-static variable count: 1 (new instance of count is created)
 
