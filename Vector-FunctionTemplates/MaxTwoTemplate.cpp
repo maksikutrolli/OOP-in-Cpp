@@ -1,3 +1,7 @@
+/*
+ *      Author: MaksiKutrolli
+ */
+
 //Example: Maximum Function Template:
 
 //In this example, we created a function template called 'max,' designed to find the maximum of two values of any type.
