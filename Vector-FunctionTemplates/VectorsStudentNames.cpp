@@ -42,7 +42,7 @@ int main() {
     std::cout << "Enter the number of students: ";
     std::cin >> numStudents;
 
-    // Declare
+    // Declare Students vector
     std::vector<std::string> students;
 
     // //Preallocation reduces the need for reallocation, improving efficiency
