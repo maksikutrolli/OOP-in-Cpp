@@ -78,7 +78,7 @@ int main() {
     std::cout << "Enter the number of employees: ";
     std::cin >> numEmployees;
 
-    // Declare and reserve memory for vectors
+    // Declare vectors
     std::vector<std::string> employeeNames;
     std::vector<double> employeeHoursWorked;
     std::vector<double> employeeHourlyRates;
