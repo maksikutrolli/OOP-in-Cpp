@@ -1,3 +1,7 @@
+/*
+ *      Author: MaksiKutrolli
+ */
+
 //Example: Generic Dynamic Array using Function Templates
 
 //In this example, the calculateSum function template is used to calculate the sum of integers and doubles in
