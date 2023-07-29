@@ -1,3 +1,7 @@
+/*
+ *      Author: MaksiKutrolli
+ */
+
 //Example: Generic Vector using Function Templates
 
 //In this example, we will create a function template to calculate the sum of elements in a vector of any data type.
