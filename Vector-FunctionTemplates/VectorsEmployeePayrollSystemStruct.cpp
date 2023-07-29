@@ -62,7 +62,7 @@ int main() {
     std::cout << "Enter the number of employees: ";
     std::cin >> numEmployees;
 
-    // Declare and reserve memory for the vector of employees
+    // Declare the vector of employees
     std::vector<Employee> employees;
 
     //Preallocation reduces the need for reallocation, improving efficiency
