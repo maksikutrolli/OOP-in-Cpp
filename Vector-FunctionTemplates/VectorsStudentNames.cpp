@@ -1,3 +1,7 @@
+/*
+ *      Author: MaksiKutrolli
+ */
+
 //Example: Student Names Tracker using Vectors
 
 //In this example, we utilize a vector named "students" to dynamically store the names of students.
