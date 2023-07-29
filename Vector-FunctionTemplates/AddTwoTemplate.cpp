@@ -1,3 +1,7 @@
+/*
+ *      Author: MaksiKutrolli
+ */
+
 //Example: Addition Function Template
 
 //In this example, we created a function template named 'add' that can add two values of any type, be it integers,
