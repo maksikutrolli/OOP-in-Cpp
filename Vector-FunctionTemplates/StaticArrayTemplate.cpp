@@ -1,3 +1,7 @@
+/*
+ *      Author: MaksiKutrolli
+ */
+
 //Example: Generic Static Array using Function Templates
 
 //In this example, we have a C++ program that demonstrates the usage of function templates to work with static arrays.
