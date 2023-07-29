@@ -1,3 +1,7 @@
+/*
+ *      Author: MaksiKutrolli
+ */
+
 //Example: Employee Payroll Management System
 
 //In this example, we will create a program to manage employee payroll using vectors. The program will prompt the user
