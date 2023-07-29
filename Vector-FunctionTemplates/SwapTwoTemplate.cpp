@@ -1,3 +1,7 @@
+/*
+ *      Author: MaksiKutrolli
+ */
+
 //Example: Swapping Function Template
 
 //In this example, we utilized a function template named 'swapValues' to swap the values of two variables of any type.
