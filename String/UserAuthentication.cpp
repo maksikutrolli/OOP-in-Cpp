@@ -2,7 +2,7 @@
  *      Author: MaksiKutrolli
  */
 
-//Example: User authentication.
+//Example: User authentication using std::string class.
 
 //In this example, we use the std::string class to store the username and password. The user is prompted to enter their
 //credentials, and we compare the entered values with the stored credentials. If they match, a successful login message
