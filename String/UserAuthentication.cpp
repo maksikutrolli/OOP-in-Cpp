@@ -2,7 +2,7 @@
  *      Author: MaksiKutrolli
  */
 
-//Example: Formatting and correcting the capitalization of names using the std::string class and its functions.
+//Example: User authentication.
 
 //In this example, we use the std::string class to store the username and password. The user is prompted to enter their
 //credentials, and we compare the entered values with the stored credentials. If they match, a successful login message
