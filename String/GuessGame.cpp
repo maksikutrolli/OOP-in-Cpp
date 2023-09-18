@@ -19,8 +19,6 @@
 #include <vector>
 // Include necessary header files for generating random numbers based on time
 #include <ctime>
-// Include necessary header files for using standard algorithms like std::find
-#include <algorithm>
 
 // Function to randomly select a word from the given list
 std::string selectRandomWord(const std::vector<std::string>& words) {
